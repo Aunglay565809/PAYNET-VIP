@@ -1,2 +1,0 @@
-# PAYNET-VIP
-PAYNET
